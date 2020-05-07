@@ -1,0 +1,17 @@
+.\obj\motor_driver.o: ..\User\user_c\motor_driver.c
+.\obj\motor_driver.o: ..\User\user_h\motor_driver.h
+.\obj\motor_driver.o: ..\CMSIS\stm32f10x.h
+.\obj\motor_driver.o: ..\CMSIS\core_cm3.h
+.\obj\motor_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\motor_driver.o: ..\CMSIS\system_stm32f10x.h
+.\obj\motor_driver.o: ..\User\stm32f10x_conf.h
+.\obj\motor_driver.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\obj\motor_driver.o: ..\CMSIS\stm32f10x.h
+.\obj\motor_driver.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\obj\motor_driver.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\motor_driver.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+.\obj\motor_driver.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\motor_driver.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\obj\motor_driver.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\obj\motor_driver.o: ..\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\obj\motor_driver.o: ..\STM32F10x_StdPeriph_Driver\inc\misc.h
